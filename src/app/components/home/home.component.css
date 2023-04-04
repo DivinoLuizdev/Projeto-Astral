@@ -1,0 +1,18 @@
+.bg-1 {
+  background-image: url(../../../assets/view/Projeto_files/01.jpg);
+}
+
+.bg-2 {
+  background-image: url(../../../assets/view/Projeto_files/14.jpg);
+}
+
+.bg-3 {
+  background-image: url(../../../assets/view/Projeto_files/12.jpg);
+}
+
+.bg-3, .bg-2, .bg-1 {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 90vh;
+}/*# sourceMappingURL=home.component.css.map */

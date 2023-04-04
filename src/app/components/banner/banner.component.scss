@@ -1,0 +1,50 @@
+
+#banner1 {
+ background-image: url(https://thumbs2.imgbox.com/87/6e/0567BEB2_t.jpg);
+
+}
+
+#banner2 {
+  background-image: url(https://thumbs2.imgbox.com/88/72/1afHxNt8_t.jpg);
+}
+#banner3 {
+  background-image: url(../../../assets/view/Projeto_files/08.jpg);
+}
+#banner4 {
+  background-image: url(../../../assets/view/Projeto_files/03.jpg);
+}
+#banner5 {
+  background-image: url(../../../assets/view/Projeto_files/10.jpg);
+}
+
+
+
+
+#banner2,
+#banner3,
+#banner4,
+#banner5 {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 0.915rem;
+
+}
+
+#banner1{
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 0.915rem;
+}
+#banner {
+
+  width: 90vw;
+  height: 90vh;
+
+  margin-top: 5rem; margin-bottom: 5rem;
+
+}
+
+
